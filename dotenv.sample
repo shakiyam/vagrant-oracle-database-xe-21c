@@ -1,0 +1,4 @@
+# SYS, SYSTEM and PDBADMIN password
+ORACLE_PASSWORD=oracle
+# Specifies whether or not to add the Sample Schemas to your database
+ORACLE_SAMPLESCHEMA=TRUE
